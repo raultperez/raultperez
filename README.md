@@ -1,8 +1,3 @@
-
-<a href="https://github.com/raultperez" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=raultperez&count_private=true&theme=radical" />
-</a>
-
 <h1>Hi 👋, I'm Raúl Torrecillas</h1>
 
 <p>A passionate fullstack developer from Zaragoza, Spain</p>
